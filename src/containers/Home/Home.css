@@ -1,0 +1,24 @@
+.home {
+    padding-top: 50px;
+}
+
+.home .home__logo-image {
+    width: 250px;
+    height: 250px;
+}
+
+.home .home__logo-text {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 3em;
+    font-weight: 800;
+    color: #312950;
+}
+
+.home .home__logo-subtext{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 1em;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #999999
+}
